@@ -1,5 +1,5 @@
 # hw8
-![](https://thecarebean.github.io/hw8/)
+### https://thecarebean.github.io/hw8/
 
 Я проанализировала моих друзей ВК и сделала граф с помощью программы Gephi.
 
